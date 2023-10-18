@@ -5,7 +5,7 @@ namespace: prod
 replicas: 8
 
 configmap:
-  name: configmapv1
+  name: nginx-configv1
 
 image:
   name: nginx
