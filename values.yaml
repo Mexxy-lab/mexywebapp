@@ -1,0 +1,12 @@
+appName: mywebapp
+
+namespace: prod
+
+replicas: 7
+
+configmap:
+  name: configmapv1
+
+image:
+  name: nginx
+  tag: stable
