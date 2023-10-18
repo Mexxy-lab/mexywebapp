@@ -5,7 +5,7 @@ namespace: dev
 replicas: 8
 
 configmap:
-  name: nginx-configv3
+  name: nginx-configv1
 
 image:
   name: nginx
