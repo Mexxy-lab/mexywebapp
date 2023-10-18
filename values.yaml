@@ -2,7 +2,7 @@ appName: mexyywebapp
 
 namespace: prod
 
-replicas: 10
+replicas: 5
 
 configmap:
   name: nginx-configv2
