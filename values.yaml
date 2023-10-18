@@ -2,7 +2,7 @@ appName: mywebapp
 
 namespace: prod
 
-replicas: 6
+replicas: 8
 
 configmap:
   name: configmapv1
