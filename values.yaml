@@ -1,8 +1,8 @@
 appName: mexyywebapp
 
-namespace: prod
+namespace: dev
 
-replicas: 5
+replicas: 2
 
 configmap:
   name: nginx-configv2
