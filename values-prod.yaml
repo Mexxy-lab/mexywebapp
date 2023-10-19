@@ -1,0 +1,12 @@
+appName: mexyywebapp
+
+namespace: prod
+
+replicas: 5
+
+configmap:
+  name: nginx-configv2
+
+image:
+  name: nginx
+  tag: latest
