@@ -2,7 +2,7 @@ appName: mexywebapp
 
 namespace: dev
 
-replicas: 10
+replicas: 5
 
 configmap:
   name: nginx-configv1
