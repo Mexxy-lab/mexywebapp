@@ -1,6 +1,6 @@
 appName: mexywebapp
 
-namespace: dev
+namespace: default
 
 replicas: 5
 
